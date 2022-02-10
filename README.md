@@ -3,11 +3,11 @@
 ### Date created
 10/2/22
 
-### Project Title
+### Title of the project
 Project 1
 
 ### Description
-uploading my first git project
+uploading project on github
 
 ### Files used
 bikeshare.py
