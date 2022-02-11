@@ -4,7 +4,7 @@
 10/2/22
 
 ### Project Title
-Project 1
+Project number 1
 
 ### Description
 uploading project on github
@@ -13,6 +13,4 @@ uploading project on github
 bikeshare.py
 
 ### Credits
-credit to udacity
-
-
+credit to udacity !!
