@@ -13,6 +13,4 @@ uploading project on github
 bikeshare.py
 
 ### Credits
-credit to udacity
-
-
+credit to udacity!
