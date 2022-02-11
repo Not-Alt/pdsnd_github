@@ -15,4 +15,4 @@ bikeshare.py
 ### Credits
 credit to udacity
 
->>>>>>> 49d414ac15eed0f6ed2a8e3e72b5bfaaf76b21ec
+
